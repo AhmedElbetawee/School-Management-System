@@ -11,7 +11,7 @@ void showMainMenu()
     cout <<"2- Classroom Management\n";
     cout <<"3- Teacher Management\n";
     cout <<"4- Student Management\n";
-    cout <<"0- Exit";
+    cout <<"0- Exit\n";
 }
 void menuSchool()
 {
@@ -27,7 +27,7 @@ void menuclassroom()
     cout <<"2- Remove Classroom\n";
     cout <<"3- Search Classroom\n";
     cout <<"4- Display All Classroom\n";
-    cout <<"0- Back";
+    cout <<"0- Back\n";
 }
 
 void menuStudent()
@@ -39,7 +39,7 @@ void menuStudent()
     cout <<"5- Display Student\n";
     cout <<"6- Sort Student By ID\n";
     cout <<"7- Sort Student By Grade\n";
-    cout <<"0- Back";
+    cout <<"0- Back\n";
 }
 
 void menuTeacher()
@@ -48,7 +48,7 @@ void menuTeacher()
     cout <<"2- Remove Teacher\n";
     cout <<"3- Search Teacher\n";
     cout <<"4- Display Teacher\n";
-    cout <<"0- Back";
+    cout <<"0- Back\n";
 }
 
 
